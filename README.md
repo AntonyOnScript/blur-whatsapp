@@ -1,9 +1,9 @@
 ## Just hide your messages during a public presentation
 <br /><br />
 <div align="center">
-    <img src="https://github.com/AntonyOnScript/blur-whatsapp/imgs/screenshot-2.png?raw=true" />
+    <img src="./imgs/screenshot-2.png" />
 </div>
 <br />
 <div align="center">
-    <img src="https://github.com/AntonyOnScript/blur-whatsapp/imgs/screenshot.png?raw=true" />
+    <img src="./imgs/screenshot.png" />
 </div>
