@@ -11,8 +11,7 @@ async function blurWa() {
             target: { tabId: tab.id },
             func: () => {
                 const blurCss = `
-                #pane-side ._37FrU ._1qB8f,
-                ._3Bc7H.g0rxnol2.thghmljt.p357zi0d.rjo8vgbg.ggj6brxn.f8m0rgwh.gfz4du6o.ag5g9lrv.bs7a17vp.ov67bkzj ._3uIPm.WYyr1 ._37FrU ._1qB8f
+                ._8nE1Y ._2KKXC .vQ0w7
                 {
                     filter: blur(8px);
                 }`
@@ -39,8 +38,7 @@ async function unblurWa() {
             target: { tabId: tab.id },
             func: () => {
                 const blurCss = `
-                #pane-side ._37FrU ._1qB8f,
-                ._3Bc7H.g0rxnol2.thghmljt.p357zi0d.rjo8vgbg.ggj6brxn.f8m0rgwh.gfz4du6o.ag5g9lrv.bs7a17vp.ov67bkzj ._3uIPm.WYyr1 ._37FrU ._1qB8f
+                ._8nE1Y ._2KKXC .vQ0w7
                 {
                     filter: blur(0px);
                 }`
